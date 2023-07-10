@@ -1,0 +1,7 @@
+
+git init
+git add .
+git commit -m "Added Server"
+git branch -M main
+git remote add origin https://github.com/bengraham-B/todo-app-server.git
+git push -u origin main
